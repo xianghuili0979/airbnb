@@ -1,4 +1,4 @@
-# airbnb
+# Customer decison predition analysis
 Nowadays, with the development of internet, it is an increasing number of companies would like to do business and customers would like to purchase product online. It is common that customers leave their comment online that recommend this product or not. And individual customers would like to check product review of existing user to make purchase decision.  Therefore, by analysing consumer options towards their product, the thesis of this paper is that help companies understand customers’ reviews and improve their business. 
 In order to demonstrate this proposition, this paper will separate into three parts. The first section is exploratory data analysis that plot the graph of related variable to understand the customer behaviour after cleaning and reformatting training and test data set. 
 The second section is to build and evaluate a benchmark model based on ‘Review text’ by applying the Bag-Of-Words method. According to the analysis of the benchmark model's evaluation result, which leads to next section: improve the model. 
